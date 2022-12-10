@@ -35,20 +35,20 @@ The interface should open up, and be ready to use.
 ## Features
 <img src='vis.png'>
 
-##### Create an account
+#### Create an account
 - Straight forward way to create your account, by entering your details
 - A random pin is generated if you can't think of a pin of your own
 - Informs you of your account details, post creation, which you will need to make deposits and withdrawls, or to check balance. Also informs you to make a note of it.
 
-##### Display account
+#### Display account
 - Shows account details from account number, such as name, balance, and phone number.
 
-##### Make a withdrawl
+#### Make a withdrawl
 - Simulates the action by taking the amount as a user input.
 - Performs a check for validity on the data entered.
 - Needs account number and pin to verify user.
 
-##### Make a deposit
+#### Make a deposit
 - Simulates the action by taking amount deposited as user input instead of auto-counting.
 - Performs a check for validity on the data entered.
 - Needs account number and pin to verify user.
