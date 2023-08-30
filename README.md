@@ -1,8 +1,3 @@
-Note: The Tkinter library has its issues. There’s so many caveats and gotchas; But even if you put those aside for a second, there’s a ton of outright poor design choices that lead to [frustrated developers](https://mail.python.org/pipermail/tkinter-discuss/) and [lots of confusion](https://stackoverflow.com/questions/tagged/tkinter). <br>
-Source : [this post](https://devfindings.wordpress.com/2018/05/05/tkinter-trouble/), highlighting how fun Tkinter is. Join the bandwagon of frustration~
-
-Anyway, point is, I used something this god awful and made a decent looking GUI. It took over 600 lines of code and some of my sanity, but it looks much better than usual Tkinter.
-
 ## Aim of the project
 To provide a GUI interface to manage the large data of banks, using a database.
 
