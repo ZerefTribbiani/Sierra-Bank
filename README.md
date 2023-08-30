@@ -57,3 +57,5 @@ The interface should open up, and be ready to use.
 	- being able to edit details after the creation of an account
 	- Possibly a web interface, with more interactive and dynamic elements.
 - A more detailed information system, with more inputs from the user
+
+# Class XII group project
